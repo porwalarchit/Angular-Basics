@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularBasics';
+  message = 'Angular is the best JavaScript application for building client-side application.'
 }
